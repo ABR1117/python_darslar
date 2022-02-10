@@ -1,2 +1,2 @@
 # python_darslar
-Ushbu repositryda python darslarga oid kodlar
+Ushbu repositryda python darslarga oid kodlar joylashgan
